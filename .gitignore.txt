@@ -1,2 +1,2 @@
-Archivo 1..txt
+Archivo 1.txt
 <
